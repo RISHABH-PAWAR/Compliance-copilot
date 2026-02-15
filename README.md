@@ -1,6 +1,6 @@
-#AI Compliance Copilot – Labor Law Edition
+**AI Compliance Copilot – Labor Law Edition**
 
-##(Work in Progress – Enterprise SaaS Platform)
+(Work in Progress – Enterprise SaaS Platform)
 
 AI Compliance Copilot is a multi-tenant B2B SaaS platform designed to help Indian mid-size companies monitor labor law compliance, detect regulatory gaps, and assess legal risk using structured AI workflows.
 
