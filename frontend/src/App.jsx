@@ -40,11 +40,11 @@ function App() {
                     <Route path="/login" element={user ? <Navigate to="/" /> : <LoginPage />} />
                     <Route path="/" element={user ? <Layout /> : <Navigate to="/login" />}>
                         <Route index element={<DashboardPage />} />
-                        <Route path="compliance" element={<CompliancePage />} />
+                        <Route path="compliance" element={<CompliancePage />}/>
                         <Route path="regulations" element={<RegulationsPage />} />
-                        <Route path="alerts" element={<AlertsPage />} />
+                        <Route path="alerts" element={<AlertsPage />}/>
                         <Route path="policies" element={<PoliciesPage />} />
-                        <Route path="reports" element={<ReportsPage />} />
+                        <Route path="reports" element={<ReportsPage />}/>
                         <Route path="settings" element={<SettingsPage />} />
                     </Route>
                 </Routes>
