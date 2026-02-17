@@ -2,6 +2,9 @@
 
 (Work in Progress – Enterprise SaaS Platform)
 
+<img width="1568" height="750" alt="image" src="https://github.com/user-attachments/assets/b74243f5-6929-4cbf-9393-8d20a5358c2d" />
+
+
 AI Compliance Copilot is a multi-tenant B2B SaaS platform designed to help Indian mid-size companies monitor labor law compliance, detect regulatory gaps, and assess legal risk using structured AI workflows.
 
 ⚠️ Project Status: Actively under development.
