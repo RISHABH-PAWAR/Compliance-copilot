@@ -44,6 +44,9 @@ Designed for:
 -Future SOC2 compliance alignment
 ```
 
+<img width="1568" height="750" alt="image" src="https://github.com/user-attachments/assets/6e748403-d7c0-4ec8-9983-3757ce03396a" />
+
+
 📂 Project Structure (Monorepo)
 ai-compliance-copilot/
 ├── backend/
