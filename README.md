@@ -1,16 +1,24 @@
 # 🚀 AI Compliance Copilot - Labor Law Edition
 
 <div align="center">
-
+<br>
 <img width="1914" height="903" alt="Screenshot 2026-02-18 012713" src="https://github.com/user-attachments/assets/280b29cb-8aa9-47bd-a095-e889574cbe27" />
-
+<br/>
+<br>
 <img width="1919" height="903" alt="Screenshot 2026-02-18 012729" src="https://github.com/user-attachments/assets/de5959ec-fb8a-4f36-895f-6e3aa2666b63" />
+<br/>
+<br>
 
 <img width="1919" height="908" alt="Screenshot 2026-02-18 012800" src="https://github.com/user-attachments/assets/b6ef16d3-224e-40c3-b718-6b5b422eafbe" />
+<br/>
+<br>
 
 <img width="1878" height="898" alt="Screenshot 2026-02-17 233825" src="https://github.com/user-attachments/assets/c45e5e06-5703-40ce-9573-298bead7e848" />
+<br/>
+<br>
 
 <img width="1865" height="906" alt="Screenshot 2026-02-17 233809" src="https://github.com/user-attachments/assets/fc3011ce-6536-49f6-b029-99fc9e4dac79" />
+<br/>
 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -126,7 +134,8 @@ Annual Loss   |    Auto-Detected     |    AI-Calculated     |    Per Company
 > One-click PDF generation: Compliance Summary, Risk Assessment, Audit Pack, and Financial Exposure reports.
 
 ### **Multi-Tenant Settings**
-![Settings](docs/screenshots/settings.png)
+<img width="1865" height="906" alt="Screenshot 2026-02-17 233809" src="https://github.com/user-attachments/assets/b46b9d4f-5cc1-4c86-baa7-25fa4a2368fe" />
+
 > Organization-level configuration with profile management, company details, and state selection for targeted compliance.
 
 ---
@@ -582,18 +591,12 @@ This project demonstrates expertise in:
 
 👨‍💻 About the Developer
 **Rishabh Pawar**  
-Full-Stack & AI Engineer | B.Tech CSE @ IMS Engineering College
+Full-Stack & AI Engineer | B.Tech CSE
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rishabh-pawar-04192b263)
 - 💼 [GitHub](https://github.com/RISHABH-PAWAR)
 - 🌐 [Portfolio](https://portfolio-rishabh-tawny.vercel.app/)
 - 📧 rishabhpawar401@gmail.com
-
-### **Relevant Experience**
-- **Full Stack Developer Intern** @ Algoworks Technologies (July-Sept 2025)
-  - Built JWT auth + GitHub OAuth with RBAC for multi-tenant SaaS
-  - Integrated Ollama (Mistral) with ChromaDB for semantic search
-  - Developed 10+ REST APIs in cross-functional team
 
 ### **Other Projects**
 - **LegalRAG-Engine**: Hybrid BM25+FAISS RAG with 85%+ accuracy (RAGAS)
@@ -610,9 +613,9 @@ Full-Stack & AI Engineer | B.Tech CSE @ IMS Engineering College
 💼 **Open to Opportunities**: SDE, Full-Stack Developer, AI Engineer, Web+AI Engineer roles
 
 📧 **Email**: rishabhpawar401@gmail.com 
-🔗 **LinkedIn**: [linkedin.com/in/rishabh-pawar-04192b263](https://www.linkedin.com/in/rishabh-pawar-04192b263)  
 💻 **GitHub**: [github.com/RISHABH-PAWAR](https://github.com/RISHABH-PAWAR)  
 🌐 **Portfolio**: [portfolio-rishabh-tawny.vercel.app](https://portfolio-rishabh-tawny.vercel.app/)  
+🔗 **LinkedIn**: [linkedin.com/in/rishabh-pawar-04192b263](https://www.linkedin.com/in/rishabh-pawar-04192b263) 
 
 ---
 
@@ -677,7 +680,7 @@ Certain AI methodologies and hybrid RAG architectures implemented in this projec
 
 ### **⭐ If this project demonstrates the skills you're looking for, let's connect!**
 
-**Built with 🚀 by Rishabh Pawar | Targeting High-Impact SDE/AI Engineering Roles**
+**Built with 🚀 by Rishabh Pawar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishabh-pawar-04192b263)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhpawar401@gmail.com)
@@ -691,10 +694,5 @@ Certain AI methodologies and hybrid RAG architectures implemented in this projec
 *This project is part of my portfolio demonstrating production-grade full-stack and AI engineering capabilities.*
 
 </div>
-**Built with 🚀 by Rishabh Pawar **
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([Linkdin](https://www.linkedin.com/in/rishabh-pawar-04192b263))
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhpawar401@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)]([Portfolio](https://portfolio-rishabh-tawny.vercel.app/))
 
 </div>
